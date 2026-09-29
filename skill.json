@@ -1,0 +1,20 @@
+{
+  "name": "genpark-canary-token-leak-sentinel-skill",
+  "version": "1.0.0",
+  "description": "HMAC-authenticated canary token generator and secret exfiltration leak detection sentinel",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "canary-tokens",
+    "leak-detection",
+    "tripwire",
+    "ai-safety",
+    "exfiltration-defense",
+    "python-standard-library",
+    "agent-skills",
+    "security",
+    "hmac-sha256",
+    "adversarial-robustness"
+  ]
+}
