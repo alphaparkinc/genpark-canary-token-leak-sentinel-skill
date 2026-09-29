@@ -1,0 +1,6 @@
+name: genpark-canary-token-leak-sentinel-skill
+version: 1.0.0
+description: HMAC-authenticated canary token generator and secret exfiltration leak detection sentinel
+command: python
+args:
+  - mcp_server.py
